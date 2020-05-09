@@ -4,7 +4,7 @@
 Simple code to run policies from code into PRISM, instead of typing into the command line.
 
 ## Instructions
-Open the RunPrism.java and follow the instructions to set the parameters:
+Open the RunPrism.java file and follow the instructions to set the parameters:
  
 a) Specifications-	Write the specifications as a vector as in the example: { "-pctl" , "Rmin=? [F " + "state=5]" , "-exportadv" , "best-policy" , "-exportstates" , "states"}
 
