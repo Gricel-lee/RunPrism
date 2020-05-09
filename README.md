@@ -1,7 +1,7 @@
 # RunPrism
 ** Simple code to run policies from code into PRISM, instead of typing into the command line.**
 
-** Open the RunPrism.java and follow the instructions to set the parameters: **
+__ Open the RunPrism.java and follow the instructions to set the parameters: __
 
 //*** INPUTS ***//
 
