@@ -15,4 +15,4 @@ c) Prism environmental variable-	The "prismCommand" value must coincide with the
 d) Results-	Specify Path and Filename to write the results, e.g.: "C:\\Users\\gris\\Desktop\\results1.txt"
 
 
-		
+NOTE: Make sure the specifications are written as in the example.		
